@@ -1,10 +1,9 @@
-<div align="center">
-
-# 🔑 KEY BY ITALIANO
-
-![Full Stack](https://img.shields.io/badge/Dev-Full%20Stack-blue?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Security-Ciberseguridad-red?style=for-the-badge)
-
+<div align="left">
+  <samp>
+    <h1>KEY BY ITALIANO</h1>
+    <h3>Full Stack Dev & Cybersecurity</h3>
+  </samp>
+  <p>Construyendo aplicaciones escalables. Asegurando la infraestructura de extremo a extremo.</p>
 </div>
 
 ---
