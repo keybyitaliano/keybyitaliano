@@ -1,2 +1,2 @@
 # Key By Italiano
-`Full Stack Developer` & `Cybersecurity Specialist`
+### Full Stack Development — Cybersecurity Specialist
