@@ -1,26 +1,22 @@
-```text
- █  █  █▀▀▀  █  █     █▀▀▄  █  █     ▀▀█▀▀  ▀▀█▀▀  █▀▀█  █    ▀▀█▀▀  █▀▀█  █▀▀▄  █▀▀█ 
- █▄▀   █▀▀▀  ▀▄▄▀     █▀▀▄  ▀▄▄█       █      █    █▄▄█  █      █    █▄▄█  █  █  █  █ 
- █  █  █▄▄▄    █      █▄▄▀  ▄▄▄█     ▄▄█▄▄    █    █  █  █▄▄█ ▄▄█▄▄  █  █  █  █  █▄▄█ 
+<!-- TITULO DE LA SECCIÓN CON FUENTE MODERNA Y GRADIENTE -->
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1&color=00FFCC&center=false&vCenter=false&width=300&lines=SOBRE+MI" alt="Sobre Mí" />
+</div>
 
- [ FULL STACK DEVELOPER // CYBERSECURITY SPECIALIST ]
-──────────────────────────────────────────────────────────────────────────────────────────
-┌───[ SOBRE MÍ ]
-└──────────────────────────────────────────────────────────────────────────
-
-Desarrollador Full Stack y Especialista en Ciberseguridad con raíces italo-argentinas, actualmente radicado en Turín, Italia. 
-
-Me apasiona la intersección entre la creación de software robusto y la fortificación de sistemas.
-No me limito a escribir código que funcione; me enfoco en diseñar arquitectura escalable, eficiente y,
-por encima de todo, segura desde su concepción. En un entorno digital en constante evolución,
-considero que la programación defensiva y la mentalidad de seguridad no son un extra,
-sino una responsabilidad fundamental.
-Siempre listo para enfrentar nuevos desafíos técnicos, auditar vulnerabilidades
-y automatizar procesos que marquen la diferencia.
-
-──────────────────────────────────────────────────────────────────────────
-"El código se escribe para las personas, pero se blinda para el futuro."
-──────────────────────────────────────────────────────────────────────────
-
-▪ Ubicación: Turín, Italia 🇮🇹 🇦🇷
-▪ Enfoque: DevSecOps • Desarrollo Seguro • Arquitectura Full Stack
+```javascript
+const devProfile = {
+  identity: "Joven Dev & Especialista en Ciberseguridad",
+  roots: ["Italiano", "Argentino"],
+  location: "Turín, Italia",
+  
+  philosophy: `
+    Me apasiona la intersección entre la creación de software robusto 
+    y la fortificación de sistemas. No me limito a escribir código 
+    que funcione; me enfoco en diseñar arquitectura escalable, 
+    eficiente y, por encima de todo, segura desde su concepción.
+  `,
+  
+  focus: ["DevSecOps", "Desarrollo Seguro", "Arquitectura Full Stack"],
+  
+  motivation: "El código se escribe para las personas, pero se blinda para el futuro."
+};
