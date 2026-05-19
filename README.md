@@ -39,45 +39,48 @@ problemas complejos y construir soluciones con un impacto real.
 
 ## 🚀 Habilidades / Skills
 
-- 🐍 **Python** (intermedio/intermediate)
-- ⚡ **JavaScript** (intermedio/intermediate)
-- 🚀 **FastAPI** (básico/basic)
-- 🌐 **HTML, DOM** (básico/basic)
-- 🎨 **CSS** (básico/basic)
-- 🔧 **Git & GitHub** (intermedio/intermediate)
-- 💻 **Bash** (intermedio/intermediate)
+- 🐍 **Python** (99%)
+- ⚡ **JavaScript** (95%)
+- 🚀 **FastAPI** (97%)
+- 🌐 **HTML, DOM** (95%)
+- 🎨 **CSS** (95%)
+- 🔧 **Git & GitHub** (90%)
+- 💻 **Bash** (96%)
+- 🛡️ **Mitigación de OWASP Top 10** (99%)
+- 🕵️‍♂️ **Pentesting y Seguridad de Redes [Nmap, Wireshark]** (100%)
+- 🔐 **Seguridad en Aplicaciones y Criptografía [JWT, OAuth2, Bcrypt]** (99%)
+- 🐧 **Sistemas Operativos [Linux y Kali Linux]** (100%)
+- 📦 **Node.js y Express.js** (99%)
+- 🗄️ **Bases de Datos Relacionales [PostgreSQL, MySQL]** (99%)
+- 🐋 **Contenedores [Docker y Docker Compose]** (97%)
+- 🔍 **Auditoría de Código Fuente / SAST** (99%)
 - 🤓 Aprendo rápido y siempre busco mejorar.  
-  Fast learner and always looking to improve.
 
 ---
 
 ## 🎯 Proyectos e Ideas / Projects & Ideas
 
-- 💡 Sistema de gestión de productos: app para contar productos entregados, manejar inventario, solicitar productos automáticamente y llevar contabilidad.
-- 🎮 Me encantan los videojuegos y quiero crear uno propio pronto.
-- 🤖 Sueño con crear IA útiles y creativas.
+- 💡Todo en silencio, sale mejor, cuando algo se termina ahi es cuando sale a luz.
 
 ---
 
 ## 🌟 Más sobre mí / More About Me
 
 - 📚 Siempre dispuesto a aprender nuevas tecnologías.
-- 💬 Hablo español nativo y tengo nivel A2 en inglés, pero ¡estoy mejorando!
-- 📲 Escríbeme por WhatsApp: 
+- 💬 Hablo Español y Italiano nativo + Ingles, Frances y Portugues (Basico).
 - 😄 Soy creativo, curioso y me encanta resolver problemas.
 
 ---
 
-## 🤝 ¡Conectemos! / Let's Connect!
+## 🤝 ¡Conectemos!
 
 Si tienes ideas, consejos o quieres colaborar, ¡no dudes en contactarme!  
-If you have ideas, advice, or want to collaborate, feel free to reach out!
 
 ---
 
-> “Aprendo rápido y siempre encuentro la manera de dar buenas soluciones.”  
-> “I learn quickly and always find a way to deliver great solutions.”
+> “Haz lo que te gusta, por que nadie lo hace por ti.”  
+
 
 ---
 
-¡Gracias por visitar mi perfil! / Thanks for visiting my profile!
+¡Gracias por visitar mi perfil!
