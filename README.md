@@ -63,7 +63,7 @@ problemas complejos y construir soluciones con un impacto real.
 
 - 📚 Siempre dispuesto a aprender nuevas tecnologías.
 - 💬 Hablo español nativo y tengo nivel A2 en inglés, pero ¡estoy mejorando!
-- 📲 Escríbeme por WhatsApp: [+57 304 558 0098](https://wa.me/573045580098)
+- 📲 Escríbeme por WhatsApp: 
 - 😄 Soy creativo, curioso y me encanta resolver problemas.
 
 ---
