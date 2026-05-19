@@ -1,73 +1,52 @@
-<!-- ENCABEZADO -->
-<h1 align="left">Key By Italiano</h1>
-<p align="left">
-  <strong>Full Stack Development — Cybersecurity Specialist</strong>
-</p>
+<!-- ENCABEZADO MINIMALISTA -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <h1>Key By Italiano</h1>
+      <p><code>Full Stack Developer</code> &bull; <code>Cybersecurity Specialist</code></p>
+      <p><a href="https://en.wikipedia.org/wiki/Turin" target="_blank">Turin, Italy</a></p>
+    </td>
+  </tr>
+</table>
 
-<hr />
+<br />
 
 <!-- SECCIÓN: SOBRE MÍ -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Sobre%20mí-8A2BE2?style=flat-square&logoColor=white&labelColor=8A2BE2" alt="Sobre mí" height="25" />
+<h3><font color="#8A2BE2">// Sobre mí</font></h3>
+<p align="justify">
+  Desarrollador Full Stack y Especialista en Ciberseguridad afincado en Turín, Italia. Mi trayectoria está impulsada por una profunda pasión por la tecnología, el aprendizaje continuo y la resolución de problemas complejos. Fusiono la creación de aplicaciones web robustas y escalables con la implementación de prácticas avanzadas de seguridad informática, priorizando el código limpio y seguro desde su concepción.
 </p>
-
-<p align="left">
-  Desarrollador Full Stack y Especialista en Ciberseguridad afincado en Turín, Italia. Mi trayectoria está impulsada por una profunda pasión por la tecnología, el aprendizaje continuo y la resolución de problemas complejos.
-</p>
-<p align="left">
-  Actualmente me desempeño profesionalmente en el sector, fusionando la creación de aplicaciones web robustas y escalables con la implementación de prácticas avanzadas de seguridad informática. Mi enfoque se centra en escribir código limpio, eficiente y, por encima de todo, seguro desde su concepción.
-</p>
-
-<hr />
-
-<!-- SECCIÓN: HERRAMIENTAS -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Especialización%20y%20Herramientas-8A2BE2?style=flat-square&logoColor=white&labelColor=8A2BE2" alt="Especialización y Herramientas" height="25" />
-</p>
-
-<!-- Subsección: Front-End -->
-<details open>
-  <summary><strong>Desarrollo Front-End</strong></summary>
-  <ul>
-    <li><strong>Lenguajes y Frameworks:</strong> JavaScript (ES6+), TypeScript, React, Next.js.</li>
-    <li><strong>Estilos y Estructura:</strong> HTML5, CSS3, Tailwind CSS, Sass.</li>
-    <li><strong>Gestión de Estado y Herramientas:</strong> Redux Toolkit, Context API, Vite.</li>
-  </ul>
-</details>
 
 <br />
 
-<!-- Subsección: Back-End -->
-<details open>
-  <summary><strong>Desarrollo Back-End y Bases de Datos</strong></summary>
-  <ul>
-    <li><strong>Entornos y Frameworks:</strong> Node.js, Express.js, Python (FastAPI / Django).</li>
-    <li><strong>Bases de Datos Relacionales:</strong> PostgreSQL, MySQL.</li>
-    <li><strong>Bases de Datos No Relacionales:</strong> MongoDB, Redis.</li>
-    <li><strong>APIs:</strong> Diseño y consumo de RESTful APIs y GraphQL.</li>
-  </ul>
-</details>
+<!-- SECCIÓN: STACK TÉCNICO EN CUADRÍCULA (GRID) -->
+<h3><font color="#8A2BE2">// Stack Técnico & Herramientas</font></h3>
 
-<br />
-
-<!-- Subsección: Ciberseguridad -->
-<details open>
-  <summary><strong>Ciberseguridad y Pentesting</strong></summary>
-  <ul>
-    <li><strong>Análisis de Vulnerabilidades:</strong> OWASP Top 10 mitigation, Nmap, Wireshark, Burp Suite.</li>
-    <li><strong>Seguridad en Aplicaciones (AppSec):</strong> Implementación de JWT, OAuth2, hashing avanzado (bcrypt, Argon2), sanitización de datos y prevención de inyecciones (SQLi, XSS).</li>
-    <li><strong>Auditoría:</strong> Análisis estático y dinámico de código (SAST/DAST).</li>
-  </ul>
-</details>
-
-<br />
-
-<!-- Subsección: DevOps -->
-<details open>
-  <summary><strong>Infraestructura, DevOps y Herramientas</strong></summary>
-  <ul>
-    <li><strong>Control de Versiones:</strong> Git, GitHub (Estrategias de branching, GitHub Actions para CI/CD).</li>
-    <li><strong>Contenedores y Entornos:</strong> Docker, Docker Compose.</li>
-    <li><strong>Sistemas Operativos:</strong> Linux (Ubuntu, Kali Linux para entornos de auditoría).</li>
-  </ul>
-</details>
+<table width="100%" cellpading="10" cellspacing="10" border="0">
+  <!-- FILA 1: DESARROLLO CORE -->
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+      <h4>Front-End Development</h4>
+      <p>JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3, Tailwind CSS, Sass, Redux Toolkit, Vite.</p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+      <h4>Back-End & Databases</h4>
+      <p>Node.js, Express.js, Python (FastAPI, Django), PostgreSQL, MySQL, MongoDB, Redis, RESTful APIs, GraphQL.</p>
+    </td>
+  </tr>
+  
+  <!-- ESPACIO ENTRE FILAS -->
+  <tr><td colspan="2" height="10"></td></tr>
+  
+  <!-- FILA 2: SEGURIDAD Y DEVOPS -->
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+      <h4>Cybersecurity & AppSec</h4>
+      <p>OWASP Top 10, Nmap, Wireshark, Burp Suite, JWT, OAuth2, Cryptographic Hashing (bcrypt, Argon2), SAST/DAST.</p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+      <h4>DevOps & Infrastructure</h4>
+      <p>Git, GitHub Actions (CI/CD), Docker, Docker Compose, Linux (Ubuntu, Kali Linux).</p>
+    </td>
+  </tr>
+</table>
