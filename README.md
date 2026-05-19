@@ -1,8 +1,7 @@
 # Key By Italiano
 ### Full Stack Development — Cybersecurity Specialist
 
-```json
-"Sobre mí"
+## Sobre mí
 
 Desarrollador Full Stack y Especialista en Ciberseguridad afincado en Turín, Italia. Mi trayectoria está impulsada por una profunda pasión por la tecnología, el aprendizaje continuo y la resolución de problemas complejos. 
 
