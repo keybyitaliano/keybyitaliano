@@ -1,86 +1,60 @@
-# 👋 Ciao Ragazzi! Soy @keybyitaliano - Dev & Ciberseguridad
+<div align="center">
+
+# KEYBYITALIANO.DEV
+### Full Stack Developer & Cybersecurity Specialist
 
 ---
 
-## 🤝 ¿Cómo podemos trabajar juntos? 
+</div>
 
-- Compartiendo ideas abiertamente y dándonos feedback constructivo.
-- Apoyándonos y aprendiendo juntos en cada proyecto.
-- Buscando soluciones creativas y eficientes para cualquier reto.
-- Celebrando los logros y aprendiendo de los errores.
+<table>
+  <tr>
+    <td width="35%" align="center">
+      <!-- Reemplaza la URL por la ruta de tu foto de perfil o tu avatar de GitHub -->
+      <img src="https://github.com/KEYBYITALIANO.png" width="200px" style="border-radius: 50%;" alt="Foto de perfil">
+    </td>
+    <td width="65%">
+      <h3>👋 ¡Hola! Soy Keyby</h3>
+      <p>
+        Desarrollador Full Stack enfocado en construir aplicaciones web eficientes, escalables y seguras desde su concepción (<b>Security by Design</b>).
+      </p>
+      <p>
+        Mi especialización en <b>ciberseguridad</b> me permite auditar código, implementar pipelines DevSecOps y proteger infraestructuras frente a vulnerabilidades modernas.
+      </p>
+    </td>
+  </tr>
+</table>
 
-El objetivo es que ambos ganemos, crezcamos y disfrutemos el proceso.  
+<br>
 
----
+<div align="center">
 
-¡Bienvenido a mi perfil de GitHub! 
+📧 **Email:** `contacto@keybyitaliano.dev`
 
-Soy un desarrollador Full Stack y especialista en Ciberseguridad
-con una profunda vocación tecnológica que se despertó en mi infancia.
-Lo que comenzó como una temprana curiosidad
-por la informática se transformó, a través
-de años de aprendizaje autónomo y constante,
-en mi profesión y mi mayor disciplina. 
+<br>
 
-De raíces italo-argentinas, crecí inmerso en las
-costumbres de Argentina, expandiendo mis horizontes
-lingüísticos y culturales a lo largo del camino.
-Actualmente resido en Turín, Italia, desde donde ejerzo
-activamente en el sector tecnológico. Para mí, el desarrollo
-de software y la seguridad informática no son solo un trabajo;
-considero que una computadora y una terminal
-son las herramientas definitivas para resolver
-problemas complejos y construir soluciones con un impacto real.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-222831?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=green)](https://hackthebox.com)
 
----
-
-
----
-
-## 🚀 Habilidades / Skills
-
-- 🐍 **Python** (99%)
-- ⚡ **JavaScript** (95%)
-- 🚀 **FastAPI** (97%)
-- 🌐 **HTML, DOM** (95%)
-- 🎨 **CSS** (95%)
-- 🔧 **Git & GitHub** (90%)
-- 💻 **Bash** (96%)
-- 🛡️ **Mitigación de OWASP Top 10** (99%)
-- 🕵️‍♂️ **Pentesting y Seguridad de Redes [Nmap, Wireshark]** (100%)
-- 🔐 **Seguridad en Aplicaciones y Criptografía [JWT, OAuth2, Bcrypt]** (99%)
-- 🐧 **Sistemas Operativos [Linux y Kali Linux]** (100%)
-- 📦 **Node.js y Express.js** (99%)
-- 🗄️ **Bases de Datos Relacionales [PostgreSQL, MySQL]** (99%)
-- 🐋 **Contenedores [Docker y Docker Compose]** (97%)
-- 🔍 **Auditoría de Código Fuente / SAST** (99%)
-- 🤓 Aprendo rápido y siempre busco mejorar.  
+</div>
 
 ---
 
-## 🎯 Proyectos e Ideas / Projects & Ideas
+## 🛠️ Skills & Habilidades
 
-- 💡Todo en silencio, sale mejor, cuando algo se termina ahi es cuando sale a luz.
-
----
-
-## 🌟 Más sobre mí / More About Me
-
-- 📚 Siempre dispuesto a aprender nuevas tecnologías.
-- 💬 Hablo Español y Italiano nativo + Ingles, Frances y Portugues (Basico).
-- 😄 Soy creativo, curioso y me encanta resolver problemas.
-
----
-
-## 🤝 ¡Conectemos!
-
-Si tienes ideas, consejos o quieres colaborar, ¡no dudes en contactarme!  
-
----
-
-> “Haz lo que te gusta, por que nadie lo hace por ti.”  
-
-
----
-
-¡Gracias por visitar mi perfil!
+| Categoría | Tecnología / Competencia | Valoración |
+| :--- | :--- | :---: |
+| **Frontend** | React / Next.js | ⭐⭐⭐⭐⭐ |
+| **Frontend** | TypeScript / JavaScript | ⭐⭐⭐⭐☆ |
+| **Frontend** | HTML5 / CSS3 / Tailwind | ⭐⭐⭐⭐⭐ |
+| **Backend** | Node.js / Express | ⭐⭐⭐⭐⭐ |
+| **Backend** | Python (FastAPI / Django) | ⭐⭐⭐⭐☆ |
+| **Backend** | Base de Datos (SQL / NoSQL) | ⭐⭐⭐⭐☆ |
+| **Ciberseguridad** | Seguridad Web (OWASP Top 10) | ⭐⭐⭐⭐⭐ |
+| **Ciberseguridad** | Pentesting & Auditorías (Burp Suite, Nmap) | ⭐⭐⭐⭐☆ |
+| **Ciberseguridad** | Análisis de Vulnerabilidades (SAST/DAST) | ⭐⭐⭐⭐☆ |
+| **DevOps & Tools** | Docker & Contenedores | ⭐⭐⭐⭐☆ |
+| **DevOps & Tools** | Git & CI/CD Pipelines (GitHub Actions) | ⭐⭐⭐⭐⭐ |
+| **DevOps & Tools** | Linux / Bash Scripting | ⭐⭐⭐⭐⭐ |
