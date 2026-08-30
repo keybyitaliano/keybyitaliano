@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td width="35%" align="center">
-      <!-- Reemplaza la URL por la ruta de tu foto de perfil o tu avatar de GitHub -->
+      <!-- Reemplaza la URL si vas a subir una foto local -->
       <img src="https://github.com/KEYBYITALIANO.png" width="200px" style="border-radius: 50%;" alt="Foto de perfil">
     </td>
     <td width="65%">
@@ -31,30 +31,50 @@
 
 📧 **Email:** `contacto@keybyitaliano.dev`
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-222831?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=green)](https://hackthebox.com)
-
-</div>
-
 ---
+
+<br>
 
 ## 🛠️ Skills & Habilidades
 
-| Categoría | Tecnología / Competencia | Valoración |
-| :--- | :--- | :---: |
-| **Frontend** | React / Next.js | ⭐⭐⭐⭐⭐ |
-| **Frontend** | TypeScript / JavaScript | ⭐⭐⭐⭐☆ |
-| **Frontend** | HTML5 / CSS3 / Tailwind | ⭐⭐⭐⭐⭐ |
-| **Backend** | Node.js / Express | ⭐⭐⭐⭐⭐ |
-| **Backend** | Python (FastAPI / Django) | ⭐⭐⭐⭐☆ |
-| **Backend** | Base de Datos (SQL / NoSQL) | ⭐⭐⭐⭐☆ |
-| **Ciberseguridad** | Seguridad Web (OWASP Top 10) | ⭐⭐⭐⭐⭐ |
-| **Ciberseguridad** | Pentesting & Auditorías (Burp Suite, Nmap) | ⭐⭐⭐⭐☆ |
-| **Ciberseguridad** | Análisis de Vulnerabilidades (SAST/DAST) | ⭐⭐⭐⭐☆ |
-| **DevOps & Tools** | Docker & Contenedores | ⭐⭐⭐⭐☆ |
-| **DevOps & Tools** | Git & CI/CD Pipelines (GitHub Actions) | ⭐⭐⭐⭐⭐ |
-| **DevOps & Tools** | Linux / Bash Scripting | ⭐⭐⭐⭐⭐ |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="left">Categoría</th>
+      <th align="left">Tecnología / Competencia</th>
+      <th align="center">Valoración</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Frontend -->
+    <tr><td><b>Frontend</b></td><td>React / Next.js</td><td align="center">⭐⭐⭐⭐⭐</td></tr>
+    <tr><td><b>Frontend</b></td><td>TypeScript / JavaScript</td><td align="center">⭐⭐⭐⭐⭐</td></tr>
+    <tr><td><b>Frontend</b></td><td>HTML5 / CSS3 / Tailwind CSS</td><td align="center">⭐⭐⭐⭐⭐</td></tr>
+    <!-- Backend -->
+    <tr><td><b>Backend</b></td><td>Node.js / Express</td><td align="center">⭐⭐⭐⭐⭐</td></tr>
+    <tr><td><b>Backend</b></td><td>Python (FastAPI / Django)</td><td align="center">⭐⭐⭐⭐⭐</td></tr>
+    <!-- Bases de Datos -->
+    <tr><td><b>Bases de Datos</b></td><td>PostgreSQL</td><td align="center">⭐⭐⭐⭐⭐</td></tr>
+    <tr><td><b>Bases de Datos</b></td><td>MongoDB</td><td align="center">⭐⭐⭐⭐⭐</td></tr>
+    <tr><td><b>Bases de Datos</b></td><td>MySQL / MariaDB</td><td align="center">⭐⭐⭐⭐⭐</td></tr>
+    <tr><td><b>Bases de Datos</b></td><td>Redis (Caching & In-Memory)</td><td align="center">⭐⭐⭐⭐⭐</td></tr>
+    <tr><td><b>Bases de Datos</b></td><td>SQLite</td><td align="center">⭐⭐⭐⭐⭐</td></tr>
+    <!-- Ciberseguridad -->
+    <tr><td><b>Ciberseguridad</b></td><td>Seguridad Web (OWASP Top 10)</td><td align="center">⭐⭐⭐⭐⭐</td></tr>
+    <tr><td><b>Ciberseguridad</b></td><td>Pentesting & Auditorías (Burp Suite, Nmap)</td><td align="center">⭐⭐⭐⭐⭐</td></tr>
+    <tr><td><b>Ciberseguridad</b></td><td>Análisis de Vulnerabilidades (SAST/DAST)</td><td align="center">⭐⭐⭐⭐⭐</td></tr>
+    <!-- DevOps & Tools -->
+    <tr><td><b>DevOps & Tools</b></td><td>Docker & Contenedores</td><td align="center">⭐⭐⭐⭐⭐</td></tr>
+    <tr><td><b>DevOps & Tools</b></td><td>Git & CI/CD Pipelines (GitHub Actions)</td><td align="center">⭐⭐⭐⭐⭐</td></tr>
+    <tr><td><b>DevOps & Tools</b></td><td>Linux / Bash Scripting</td><td align="center">⭐⭐⭐⭐⭐</td></tr>
+    <!-- Lenguajes Extras -->
+    <tr><td><b>Lenguajes Extras</b></td><td>Java</td><td align="center">⭐⭐⭐⭐☆</td></tr>
+    <tr><td><b>Lenguajes Extras</b></td><td>C++</td><td align="center">⭐⭐⭐⭐☆</td></tr>
+    <tr><td><b>Lenguajes Extras</b></td><td>C#</td><td align="center">⭐⭐⭐⭐☆</td></tr>
+    <tr><td><b>Lenguajes Extras</b></td><td>Pawno (Pawn Scripting)</td><td align="center">⭐⭐⭐⭐☆</td></tr>
+    <tr><td><b>Lenguajes Extras</b></td><td>PHP</td><td align="center">⭐⭐⭐⭐☆</td></tr>
+    <tr><td><b>Lenguajes Extras</b></td><td>Go (Golang)</td><td align="center">⭐⭐⭐⭐☆</td></tr>
+  </tbody>
+</table>
+
+</div>
