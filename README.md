@@ -68,12 +68,12 @@
     <tr><td><b>DevOps & Tools</b></td><td>Git & CI/CD Pipelines (GitHub Actions)</td><td align="center">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%</td></tr>
     <tr><td><b>DevOps & Tools</b></td><td>Linux / Bash Scripting</td><td align="center">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%</td></tr>
     <!-- Lenguajes Extras -->
-    <tr><td><b>Lenguajes Extras</b></td><td>Java</td><td align="center">🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%</td></tr>
-    <tr><td><b>Lenguajes Extras</b></td><td>C++</td><td align="center">🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%</td></tr>
-    <tr><td><b>Lenguajes Extras</b></td><td>C#</td><td align="center">🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%</td></tr>
-    <tr><td><b>Lenguajes Extras</b></td><td>Pawno (Pawn Scripting)</td><td align="center">🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%</td></tr>
-    <tr><td><b>Lenguajes Extras</b></td><td>PHP</td><td align="center">🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%</td></tr>
-    <tr><td><b>Lenguajes Extras</b></td><td>Go (Golang)</td><td align="center">🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%</td></tr>
+    <tr><td><b>Lenguajes Extras</b></td><td>Java</td><td align="center">🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜  90%</td></tr>
+    <tr><td><b>Lenguajes Extras</b></td><td>C++</td><td align="center">🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜  90%</td></tr>
+    <tr><td><b>Lenguajes Extras</b></td><td>C#</td><td align="center">🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜  90%</td></tr>
+    <tr><td><b>Lenguajes Extras</b></td><td>Pawno (Pawn Scripting)</td><td align="center">🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜  90%</td></tr>
+    <tr><td><b>Lenguajes Extras</b></td><td>PHP</td><td align="center">🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜  90%</td></tr>
+    <tr><td><b>Lenguajes Extras</b></td><td>Go (Golang)</td><td align="center">🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜  90%</td></tr>
   </tbody>
 </table>
 
